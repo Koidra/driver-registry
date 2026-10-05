@@ -24,6 +24,7 @@ redirect there). No token: this repository is public.
 | Kind | Version | Contract | Targets |
 |---|---|---|---|
 | `kplc` | 0.1.0 | 2 | `aarch64-apple-darwin`, `x86_64-pc-windows-gnu`, `x86_64-unknown-linux-gnu` |
+| `mock` | 0.1.0 | 2 | `aarch64-apple-darwin`, `x86_64-pc-windows-gnu`, `x86_64-unknown-linux-gnu` |
 
 ## Layout
 
