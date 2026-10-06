@@ -24,6 +24,7 @@ redirect there). No token: this repository is public.
 | Kind | Version | Contract | Targets |
 |---|---|---|---|
 | `kplc` | 0.1.0 | 2 | `aarch64-apple-darwin`, `x86_64-pc-windows-gnu`, `x86_64-unknown-linux-gnu` |
+| `kplc` | 0.2.0 | 2 | `aarch64-apple-darwin`, `x86_64-pc-windows-gnu`, `x86_64-unknown-linux-gnu` |
 | `mock` | 0.1.0 | 2 | `aarch64-apple-darwin`, `x86_64-pc-windows-gnu`, `x86_64-unknown-linux-gnu` |
 | `modbus_tcp` | 0.1.0 | 2 | `aarch64-apple-darwin`, `x86_64-pc-windows-gnu`, `x86_64-unknown-linux-gnu` |
 | `opcua` | 0.1.0 | 2 | `aarch64-apple-darwin`, `x86_64-pc-windows-gnu`, `x86_64-unknown-linux-gnu` |
